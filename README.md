@@ -25,33 +25,3 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
----
-<!-- PARTE DO PAC-MAN -->
-<div align="center">
-  <h3>🕹️ Game of Life / Pac-Man</h3>
-  <!-- Esta imagem será gerada automaticamente pela Action abaixo -->
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Pac-Man Contribution Animation" />
-</div>
-
-<!-- O RESTO DO SEU CONTEÚDO... -->
----
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <sub>Contador de visitas</sub><br>
-  <img src="https://profile-counter.glitch.me/SEU_USUARIO/count.svg" />
-</div>
