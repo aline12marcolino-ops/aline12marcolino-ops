@@ -27,11 +27,14 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
-## 🕹️ Game of Life / Pac-Man
-
+<!-- PARTE DO PAC-MAN -->
 <div align="center">
+  <h3>🕹️ Game of Life / Pac-Man</h3>
+  <!-- Esta imagem será gerada automaticamente pela Action abaixo -->
   <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Pac-Man Contribution Animation" />
 </div>
+
+<!-- O RESTO DO SEU CONTEÚDO... -->
 ---
 ## 📊 Estatísticas do GitHub
 
